@@ -1,3 +1,9 @@
+gdisk (1.0.1-2) trusty; urgency=low
+
+  * For Ubuntu 14.04
+
+ -- Shihta (@Nantou) <kuster.die9841+lp@gmail.com>  Fri, 18 Dec 2015 11:36:17 +0800
+
 gdisk (1.0.1-1) unstable; urgency=medium
 
   * New upstream release, drop included patches:

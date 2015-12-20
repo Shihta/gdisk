@@ -1,9 +1,9 @@
 Source: gdisk
 Section: admin
 Priority: extra
-Maintainer: Guillaume Delacour <gui@iroqwa.org>
+Maintainer: Shihta (@Nantou) <kuster.die9841+lp@gmail.com>
 Build-Depends: debhelper (>= 9), libpopt-dev, uuid-dev, libncursesw5-dev
-Standards-Version: 3.9.6
+Standards-Version: 3.9.5
 Homepage: http://sourceforge.net/projects/gptfdisk/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/gdisk.git
 Vcs-Git: git://anonscm.debian.org/collab-maint/gdisk.git
